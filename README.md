@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BigDustin96
-- 👀 BJTU--USC--Huawei Cloud Block Lab
+- 👀 BJTU--USC--Huawei Cloud Blockchain Lab
 - 🌱 I’m in Shenzhen
-- 💞️ I’m looking to collaborate on Ethereum L2 and DAO
+- 💞️ I’m looking to collaborate on Ethereum and DAO
 - 📫 Reach me at 409454652@qq.com
 
 <!---
